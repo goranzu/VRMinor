@@ -1,0 +1,11 @@
+#Ignore everything
+/*
+ 
+#Except:
+!.gitignore
+!.gitattributes
+!Assets/
+!Packages/
+!ProjectSettings/
+!.cursorrules.txt
+!README.md
